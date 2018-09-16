@@ -1,0 +1,2 @@
+1.jpg = Kathmandu Photo
+2.jpg = Pokhara Photo
